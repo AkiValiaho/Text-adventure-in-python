@@ -1,4 +1,4 @@
 Text-adventure-in-python
 ========================
 
-Tekstiseikkailukokeilu pythonilla
+Vääntäkää tänne sitä scriptiä, tarinaa jne. jos vaan talenttia löytyy
